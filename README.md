@@ -12,7 +12,7 @@ export PATH=$SPARK_HOME/bin:$PATH:~/.local/bin:$JAVA_HOME/bin:$JAVA_HOME/jre/bin
 export PYTHONPATH="${SPARK_HOME}/python/:$PYTHONPATH"
 export PYTHONPATH="${SPARK_HOME}/python/lib/py4j-0.10.9-src.zip:$PYTHONPATH"
 
-# Links
+## Links
 https://medium.datadriveninvestor.com/how-to-install-the-jupyter-notebook-server-on-linux-b2c14c47b446
 https://dlcdn.apache.org/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
 https://opensource.com/article/18/11/pyspark-jupyter-notebook
