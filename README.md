@@ -1,6 +1,6 @@
 # DE_series_batch_load_with_spark
 
-# Add to .bashrc file
+## Add to .bashrc file
 export JAVA_HOME="$HOME/spark/jdk-11.0.2"
 export SPARK_HOME="$HOME/spark/spark-3.0.3-bin-hadoop3.2"
 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
@@ -17,8 +17,8 @@ https://medium.datadriveninvestor.com/how-to-install-the-jupyter-notebook-server
 https://dlcdn.apache.org/spark/spark-3.1.3/spark-3.1.3-bin-hadoop3.2.tgz
 https://opensource.com/article/18/11/pyspark-jupyter-notebook
 
-# copy files from local computer to remote server
+## copy files from local computer to remote server
 scp /mnt/c/Users/RoyaltyBook/Downloads/spark-3.0.3-bin-hadoop3.2.tgz  iyanumanuel@66.94.120.221:/home/iyanumanuel/spark
 
 
-# add port 4040 to forwarded port to access Spark UI
+## add port 4040 to forwarded port to access Spark UI
